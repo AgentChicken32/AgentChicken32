@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=200&section=header&text=AgentChicken32&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=CS+%2B+Cybersecurity+%2B+Math+Student;Undergraduate+Research+Assistant+%28FISH%29;Franciscan+University+of+Steubenville" />
+</p>
+
 # AgentChicken32
 
 Undergraduate studying Computer Science, Cybersecurity, and Mathematical Science at Franciscan University of Steubenville.
