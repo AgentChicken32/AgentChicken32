@@ -11,5 +11,5 @@ Undergraduate studying Computer Science, Cybersecurity, and Mathematical Science
 | [notables](https://github.com/AgentChicken32/notables) | Fork of [KieranK07/notables](https://github.com/KieranK07/notables), reworked for local Windows use — swaps in Windows-native audio recording and adds OneDrive sync for phone recordings | Swift |
 
 ## Background
-- Undergraduate Research Assistant — FISH (Franciscan Institute for Science & Health)
-- Student Technician, Franciscan University ITS Help Desk — IT support, debugging, and diagnostics
+- Undergraduate Research Assistant, FISH (Franciscan Institute for Science & Health) — Research on drug-drug interaction for software application
+- Student Technician, Dynamic Campus — IT support, debugging, and diagnostics
